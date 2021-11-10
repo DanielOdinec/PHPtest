@@ -26,7 +26,7 @@ echo "Kui esimene arv jagame teise arvuga, siis vastuseks on ".($arv1/$arv2);
     echo "<br>";
     echo "Kell on ".date("H: i: s:");
     ?>
-
+<a href="harjutused/405.php">Ülesanne 405</a>
 
 </footer>
 </body>
